@@ -1,0 +1,42 @@
+/* p{
+    color: red;
+} */
+
+
+/* #idl {
+    color: red;
+} */
+
+
+/* class select */
+/* 
+.c1{
+    color: red;
+} */
+
+
+/* attribute selector */
+
+/* input {
+    border: 5px solid red
+} */
+
+/* input[type="text]{
+    border: 5px solid green;
+} */
+
+
+
+/* grouping Selector */
+
+
+/* .c1 {
+    background-color: red;
+} */
+
+
+/* Universal selector */
+
+p{
+    border: 3px solid green;
+}
